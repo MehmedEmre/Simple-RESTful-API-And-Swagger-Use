@@ -18,7 +18,7 @@
         </member>
         <member name="M:HotelFinder.API.Controllers.HotelsController.GetHotelByName(System.String)">
             <summary>
-            Get Hotel By Id
+            Get Hotel By Name
             </summary>
             <returns></returns>
         </member>
@@ -41,6 +41,11 @@
             Delete Hotel
             </summary>
             <param name="id"></param>
+        </member>
+        <member name="T:HotelFinder.API.JWT.Token">
+            <summary>
+            
+            </summary>
         </member>
     </members>
 </doc>

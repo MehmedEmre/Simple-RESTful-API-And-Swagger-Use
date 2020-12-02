@@ -10,7 +10,7 @@ namespace HotelFinder.DataAccess
     {
 
         public DbSet<Hotel> HotelTable { set; get; }
-
+        public DbSet<User> UserTable { set; get; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=DESKTOP-D6E78MU\\SQLEXPRESS; database=HotelDb ;integrated security=true;");

@@ -12,3 +12,17 @@ C:\Users\mehme\source\repos\HotelFinder\HotelFinder.Buisness\obj\Debug\netcoreap
 C:\Users\mehme\source\repos\HotelFinder\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.csproj.CopyComplete
 C:\Users\mehme\source\repos\HotelFinder\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.dll
 C:\Users\mehme\source\repos\HotelFinder\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.pdb
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\bin\Debug\netcoreapp3.1\HotelFinder.Buisness.deps.json
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\bin\Debug\netcoreapp3.1\HotelFinder.Buisness.dll
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\bin\Debug\netcoreapp3.1\HotelFinder.Buisness.pdb
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.csproj.CopyComplete
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.dll
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.pdb
+C:\Users\mehme\Desktop\Desktop\GitHub\HotelFinderAPI\HotelFinder.Buisness\obj\Debug\netcoreapp3.1\HotelFinder.Buisness.csproj.CoreCompileInputs.cache

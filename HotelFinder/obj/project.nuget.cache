@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bxUNchTxNLlugbuHH4MVPwOmwhuCTvbwDUSk/v+0Li8IeYHCoGqi8IyLKlwJq77PS2GeymeZopTtYnHNHS4EjQ==",
+  "dgSpecHash": "b0PWWBeQMM2cRO2g0tyIBeyldaBi5aXxFqQoLO+d5k7uTbrAvu6StZk0liccucxPwFIu5/3TAvZsUgFsr1UNAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder\\HotelFinder.csproj",
+  "projectFilePath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder\\HotelFinder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehme\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Users\\mehme\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\mehme\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\mehme\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

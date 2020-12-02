@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H5mi09lyu/OJhlW6jyjJkHMgsuhhfrLu3pKOROal1QQLwOGLO5Skd0tKZ3tgcXuDSRpC7sZhbp66DrpcR5RV9g==",
+  "dgSpecHash": "m0Xa++9WVesXExrwOAy73sp7LQIDW0g8Il2c/Na8qC+8VocryDaEe+mDW8OtIF6eOes/fd/ylKeLEJlEduGSbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehme\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mehme\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

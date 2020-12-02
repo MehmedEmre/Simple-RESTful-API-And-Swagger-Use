@@ -5784,11 +5784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
       "projectName": "HotelFinder.Entities",
-      "projectPath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+      "projectPath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
       "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder.Entities\\obj\\",
+      "outputPath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

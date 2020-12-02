@@ -5,11 +5,13 @@ using System.Threading.Tasks;
 using HotelFinder.Buisness.Abstract;
 using HotelFinder.Buisness.Concrete;
 using HotelFinder.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HotelFinder.API.Controllers
 {
+    [Authorize]// “Authorize” attribute’u ile işaretlenerek yetkisiz erişim engellenir bir hale getirilmiştir.
     [Route("api/[controller]")]
     [ApiController]//Eğer bu attribute kullanılırsa validation kontrolleri otomatik olarak yapılır.
                   //Örneğin post metoduna gelen verinin isim değeri required olsun ve o değeri null gönderelim.
@@ -27,7 +29,6 @@ namespace HotelFinder.API.Controllers
         /// <summary>
         /// Get All Hotels
         /// </summary>
-        /// <returns></returns>
         [HttpGet]
         [Route("[action]")]
         public async Task<IActionResult> GetAllHotels()
@@ -57,7 +58,7 @@ namespace HotelFinder.API.Controllers
         }
 
         /// <summary>
-        /// Get Hotel By Id
+        /// Get Hotel By Name
         /// </summary>
         /// <returns></returns>
         [HttpGet]

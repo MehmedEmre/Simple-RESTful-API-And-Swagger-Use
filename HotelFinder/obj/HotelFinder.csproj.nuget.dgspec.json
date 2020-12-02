@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder\\HotelFinder.csproj": {}
+    "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder\\HotelFinder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder\\HotelFinder.csproj": {
+    "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder\\HotelFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder\\HotelFinder.csproj",
+        "projectUniqueName": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder\\HotelFinder.csproj",
         "projectName": "HotelFinder",
-        "projectPath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder\\HotelFinder.csproj",
+        "projectPath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder\\HotelFinder.csproj",
         "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinder\\HotelFinder\\obj\\",
+        "outputPath": "C:\\Users\\mehme\\Desktop\\Desktop\\GitHub\\HotelFinderAPI\\HotelFinder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.0, )"
